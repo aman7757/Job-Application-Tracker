@@ -123,5 +123,5 @@ Building this taught me how authentication actually works end-to-end (not just u
 ## Author
 
 **Amandeep Singh (Aman)**
-B.Tech CSE (AI Specialization), GTBIT, Delhi
-[LinkedIn](#) · [GitHub](#)
+B.Tech CSE, GTBIT, Delhi
+[LinkedIn](https://www.linkedin.com/in/amandeep-singh712) · [GitHub](https://github.com/aman7757)
