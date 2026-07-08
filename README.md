@@ -2,8 +2,8 @@
 
 A full-stack MERN app for tracking job applications during placement season — built to solve my own real problem of juggling multiple applications, interview stages, and follow-ups across companies.
 
-🔗 **Live App:** _add your Vercel URL here once deployed_
-🔗 **Live API:** _add your Render URL here once deployed_
+🔗 **Live App:** https://job-application-tracker-zeta-woad.vercel.app/
+🔗 **Live API:** https://job-application-tracker-uh79.onrender.com/
 
 ![Dashboard Preview](./frontend/screenshot.png)
 
