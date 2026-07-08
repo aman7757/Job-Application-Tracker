@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:5000/api', // change this later when you deploy the backend
+  baseURL: 'https://job-application-tracker-uh79.onrender.com/api', 
 });
 
 // Before every request, automatically attach the JWT token (if logged in)
